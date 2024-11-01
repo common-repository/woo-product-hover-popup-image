@@ -1,0 +1,12 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+#largeImage {
+	position: absolute;
+	padding: .5em;
+	background: #e3e3e3;
+	border: 1px solid #BFBFBF;
+	max-width: 650px;
+	z-index: 9999999;
+}
